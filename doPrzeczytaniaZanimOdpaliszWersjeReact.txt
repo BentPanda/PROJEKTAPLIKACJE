@@ -1,0 +1,1 @@
+nie umiem naprawić błędu w react że jak wpisuje się fraze to wyskakuje dużo błędów więc polecam nie wyszukiwać nic, ale reszta powinna działać
